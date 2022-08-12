@@ -1,0 +1,273 @@
+.jumbotron{
+    position: relative;
+    top: -500px;
+    left: 0px;
+}
+#main{
+    position: relative;
+    top: -270px;
+    left: 0px;
+}
+#Featured{
+    position: relative;
+    top: -430px;
+    left: 0px;
+}
+#Featured .btn{
+    margin-top: 23px;
+}
+#Featured .pro_wrap{
+    
+    padding: 5px;
+    margin: 0 auto;
+    width: 250px;
+    height: 470px;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 30%);
+    border-radius: 15px;
+    font-family: "Poppins", sans-serif;
+    background: white;
+    text-shadow: none;
+}
+#Featured .sale{
+    background: #f44c1c;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.6;
+    margin-top:3px;
+    color: #fff;
+    padding: 8px 20px 5px;
+    text-align: center;
+    font-family: Poppins;
+    width: 80px;
+
+}
+#Featured .product-price{
+    float: left;
+    padding: 5px;
+    margin: 0 0 10px;
+    width: 100%;
+    font-weight: 500;
+    font-size: 1.2em;
+    background-color: #FADBD8;
+    height:100px;
+}
+#Featured .product-price .smalltext1 {
+    color: crimson;
+}
+#Featured .product-price .save {
+    color: dodgerblue;
+    font-size: 15px;
+}
+#Featured .norm{
+    color: #D35400;
+    font-weight: 500;
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+}
+#Featured .productBasePrice{
+    color: #333366;
+    font-weight: 500;
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+}
+#bg1{
+    position: relative;
+    top: -200px;
+    left: 0px;
+}
+#brand{
+    position: relative;
+    top: -250px;
+    left: 0px; 
+    width: 100%;
+    display: block;
+    text-align: center;
+    align-items: center;
+
+
+}
+#brand hr{
+    position: relative;
+    top: 30px;
+    left: 0px; 
+}
+.brand-item{
+    position: relative;
+    top: 70px;
+    left: 20px; 
+    width:100%;
+    height: auto;
+    border-left: 1.5px #6b6868 solid;
+    float: left;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+    align-items: center;
+    background-color:whitesmoke;
+
+}
+.item{
+    margin: 20px;
+    font-size: 13px;
+    font-weight: 400 !important;
+
+}
+#brand img{
+    height: auto;
+    max-width: 100%;
+    font-size: 13px;
+    font-weight: 400 !important;
+}
+#footer{
+    position: relative;
+    top: 470px;
+    left: 0px;
+    width: 100%;
+    z-index: 1;
+    background-color: rgb(56, 55, 55);
+    color:white;
+}
+#adv{
+    position: relative;
+    top: -300px;
+    left: 0px;
+    border-radius: 20px;
+}
+#social{
+    position: relative;
+    top: 450px;
+    left: 0px;
+    width: 100%;
+}
+#social .bg4{
+    position: relative;
+    top: -200px;
+    left: 0px;
+    height: 350px;
+    width: 100%;
+}
+#social h3{
+    position:relative;
+    top: -520px;
+    left: 0px;
+    color: crimson;
+}
+#social h2{
+    position:relative;
+    top: -520px;
+    left: 0px;
+    color:green;
+    font-family: poppins;
+}
+.cards{
+    position: relative;
+    top: -200px;
+    left: 0px;
+}
+.test{
+    position: relative;
+    top: -250px;
+    left: 0px;  
+}
+.card-body{
+    height: 200px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 30%);
+    border: none;
+    background-color: bisque;
+}
+.abt_main{
+    position: relative;
+    top:500px;
+    left: 0px;
+}
+.info{
+    background-color: aliceblue;
+    /* border: 1px solid gray; */
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 30%);
+}
+.info h3{
+    color: darkblue;
+}
+.info h6{
+    color: black;
+}
+.form{
+    background-color: aliceblue;
+    /* border: 1px solid gray; */
+    width: 100%;
+    text-align: justify;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 30%);  
+}
+.checkout_form{
+    box-shadow: 0 2px 4px rgb(0 0 0 / 50%); 
+}
+
+#Featured1{
+    position: relative;
+    top: 50px;
+    left: 0px;
+    background-color: whitesmoke;
+  
+}
+#Featured1 .btn{
+    margin-top: 23px;
+}
+#Featured1 .pro_wrap{
+    
+    padding: 5px;
+    margin: 0 auto;
+    width: 250px;
+    height: 470px;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 30%);
+    border-radius: 15px;
+    font-family: "Poppins", sans-serif;
+    background: white;
+    text-shadow: none;
+   
+}
+#Featured1 .sale{
+    background: #f44c1c;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.6;
+    margin-top:3px;
+    color: #fff;
+    padding: 8px 20px 5px;
+    text-align: center;
+    font-family: Poppins;
+    width: 80px;
+
+}
+#Featured1 .product-price{
+    float: left;
+    padding: 5px;
+    margin: 0 0 10px;
+    width: 100%;
+    font-weight: 500;
+    font-size: 1.2em;
+    background-color: #FADBD8;
+    height:100px;
+}
+#Featured1 .product-price .smalltext1 {
+    color: crimson;
+}
+#Featured1 .product-price .save {
+    color: dodgerblue;
+    font-size: 15px;
+}
+#Featured1 .norm{
+    color: #D35400;
+    font-weight: 500;
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+}
+#Featured1 .productBasePrice{
+    color: #333366;
+    font-weight: 500;
+    font-size: 22px;
+    font-family: "Poppins", sans-serif;
+}
